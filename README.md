@@ -1,2 +1,2 @@
 # SAE-LLM-Steering
-SAE를 활용해 LLM 출력 조정하는 실험
+Using Sparse Autoencoders to extract interpretable features from LLMs and steer the outputs
